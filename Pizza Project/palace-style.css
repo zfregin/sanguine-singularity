@@ -14,7 +14,7 @@ body { background: #000; color: #fff; position: relative;}
 }
 
 .future {
-	position: absolute;
+	position: relative;
 	left: 0;
 	top: -310px;
 	font-family: 'Mr Dafoe', cursive;
@@ -49,22 +49,18 @@ body { background: #000; color: #fff; position: relative;}
 }
 
 /* Breakpoints for Logo */
-@media (min-width: 640px) { .future-cop {margin-top: 11rem} } 
-@media (min-width: 960px) { .future-cop {margin-top: 13rem} }
-@media (min-width:1100px) { .future-cop {margin-top: 250px} }
-@media (min-width: 640px) { .future {font-size:5rem; top: -14rem; margin-left: 1rem; padding-left: 1rem;} } 
-@media (min-width: 960px) { .future {font-size:7.5rem; top: -16rem;  margin-left: 1rem; padding-left: 1rem;} } 
-@media (min-width:1100px) { .future {font-size:200px; top: -20rem;  margin-left: 1rem; padding-left: 1rem;} }
+@media (min-width: 640px) { .future-cop {margin-top: -5rem} } 
+@media (min-width: 960px) { .future-cop {margin-top: -6rem} }
+@media (min-width:1100px) { .future-cop {margin-top: -7rem} }
+@media (min-width: 640px) { .future {font-size:5rem; top: -4.5rem; margin-left: 2.5rem; padding-left: 2.5rem;} } 
+@media (min-width: 960px) { .future {font-size:7.5rem; top: -3.75rem;  margin-left: 2.5rem; padding-left: 2.5rem;} } 
+@media (min-width:1100px) { .future {font-size:200px; top: -2.5rem;  margin-left: 2.5rem; padding-left: 2.5rem;} }
 @media (min-width: 640px) { .cop {font-size:5rem; padding-left: 1rem;} } 
 @media (min-width:960px) { .cop {font-size:7.5rem; padding-left: .75rem;} } 
 @media (min-width:1100px) { .cop {font-size:200px; padding-left: 1rem;} }
 
-
-.title-image {
-	position: absolute;
-/*	top: -5em;
-	right: 5em;*/
-	z-index: -1;
+#wrapper {
+	text-align: center;
 }
 
 .mac .cop {
