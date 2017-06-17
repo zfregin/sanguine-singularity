@@ -149,7 +149,7 @@
 				</div>
 				<div class="col-sm-4 col-sm-offset-4">
 <!-- 					<div class="text-center"> -->
-					<button type="button" class="btn btn-outline-danger btn-block" data-toggle="modal" data-target="#orderModal" onclick="getReceipt()">Place Order</button>
+					<button type="button" class="btn btn-outline-danger btn-block" id="orderBtn">Place Order</button>
 <!-- 					</div> -->
 				</div>
 			</div>
@@ -158,13 +158,51 @@
 				<div class="modal-dialog text-muted" role="document">
 					<div class="modal-content">
 						<div class="modal-header">
-							<h5 class="modal-title" id="orderModalLabel">You Ordered: </h5>
+							<h3 class="modal-title" id="orderModalLabel">You Ordered: </h3>
 							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 								<span aria-hidden="true">&times;</span>
 							</button>
 						</div>
 						<div class="modal-body">
-						asfdgfd
+							<div class="d-flex justify-content-between">
+								<h5 id="pizza-size"></h5>
+								<span class="float-right" id="size-price"></span>
+							</div>
+							<hr>
+							<h5>Crust</h5>
+							<div class="d-flex justify-content-between">
+								<div id="selected-crust"></div>
+								<div id="crust-price"></div>
+							</div>
+							<hr>
+							<h5>Cheese</h5>
+							<div class="d-flex justify-content-between">
+								<div id="selected-cheese"></div>
+								<div id="cheese-price"></div>
+							</div>
+							<hr>
+							<h5>Sauce</h5>
+							<div class="d-flex justify-content-between">
+								<div id="selected-sauce"></div>
+								<div id="sauce-price"></div>
+							</div>
+							<hr>
+							<h5 class="pull-left">Meat</h5><div>(First choice no cost, $1.00 each additional)</div>
+							<div class="d-flex justify-content-between">
+								<div class="col-sm-8" id="selected-meat"></div>
+								<div id="meat-price"></div>
+							</div>
+							<hr>
+							<h5>Veggies</h5><div>(First choice no cost, $1.00 each additional)</div>
+							<div class="d-flex justify-content-between">
+								<div class="col-sm-8" id="selected-veggies"></div>
+								<div id="veggies-price"></div>
+							</div>
+							<hr>
+							<div class="d-flex justify-content-between">
+								<h2 id="pizza-size">Total</h2>
+								<h2 class="float-right" id="order-total"></h2>
+							</div>
 						</div>
 						<div class="modal-footer">
 							<button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
