@@ -18,7 +18,8 @@ def txt_move(source, dest):
 				file_path = os.path.join(root,file)
 				print(file_path)
 				# Moves file to destination directory
-				shutil.move(file_path,dest)
+				shutil.copy(file_path,dest)
+				os.remove(file_path)
 
 txt_move(source,dest)
 
