@@ -57,9 +57,9 @@ def source_file():
 	source_entry.state(['!disabled'])
 	# Clears entry field
 	source_entry.delete(0,END)
-	source = filedialog.askdirectory()
+	# source = filedialog.askdirectory()
 	# Copies folder path to entry field
-	source_entry.insert(0,source)
+	source_entry.insert(0,filedialog.askdirectory())
 	# Sets entry field back to disabled
 	source_entry.state(['disabled'])
 
@@ -68,9 +68,9 @@ def dest_file():
 	dest_entry.state(['!disabled'])
 	# Clears entry field
 	dest_entry.delete(0,END)
-	dest = filedialog.askdirectory()
+	# dest = filedialog.askdirectory()
 	# Copies folder path to entry field
-	dest_entry.insert(0,dest)
+	dest_entry.insert(0,filedialog.askdirectory())
 	# Sets entry field back to disabled
 	dest_entry.state(['disabled'])
 
@@ -89,11 +89,10 @@ def recent_changes(source, dest):
 					print(file_path)
 					shutil.copy(file_path,dest)
 
+# Button Callbacks
 browse_source.config(command = source_file)
 browse_dest.config(command = dest_file)
 transfer_btn.config(command = lambda: recent_changes(source_entry.get(),dest_entry.get()))
-
-
 
 
 
