@@ -1,2 +1,2 @@
 # sanguine-singularity
-Projects
+Various working projects and practice exercises
