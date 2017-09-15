@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\C#\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+C:\Users\Owner\Documents\C#\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+C:\Users\Owner\Documents\C#\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+C:\Users\Owner\Documents\C#\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\C#\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\C#\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+C:\Users\Owner\Documents\C#\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
