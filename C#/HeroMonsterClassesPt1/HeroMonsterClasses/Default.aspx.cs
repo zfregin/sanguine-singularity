@@ -27,7 +27,7 @@ namespace HeroMonsterClassesPt1
             int damageByHero = Hero.Attack();
             Monster.Defend(damageByHero);
             int damageByMonster = Monster.Attack();
-            Hero.Defend(damageByHero);
+            Hero.Defend(damageByMonster);
 
             heroStatsLabel.Text = displayStats(Hero);
             monsterStatsLabel.Text = displayStats(Monster);
