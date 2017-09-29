@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\C#\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll.config
+C:\Users\Owner\Documents\C#\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll
+C:\Users\Owner\Documents\C#\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.pdb
+C:\Users\Owner\Documents\C#\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\C#\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\C#\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.dll
+C:\Users\Owner\Documents\C#\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.pdb
