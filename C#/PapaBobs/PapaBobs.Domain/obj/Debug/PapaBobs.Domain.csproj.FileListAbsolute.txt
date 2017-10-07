@@ -1,0 +1,13 @@
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.dll
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.pdb
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.dll
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.pdb
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\Owner\Documents\C#\PapaBobs\PapaBobs.Domain\bin\Debug\EntityFramework.xml
