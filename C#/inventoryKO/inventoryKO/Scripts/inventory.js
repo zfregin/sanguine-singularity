@@ -12,8 +12,17 @@
 var PagedGridModel = function (items) {
     this.items = ko.observableArray(items);
 
+    this.newName = ko.observable("");
+    this.newInventory = ko.observable("");
+    this.newPrice = ko.observable("");
+
     this.addItem = function () {
-        this.items.push({ name: "New item", inventory: 0, price: 100 });
+        if (this.newName() != "" && this.newInventory() != "" && this.newPrice() != "") {
+            this.items.push({ name: this.newName(), inventory: parseInt(this.newInventory()), price: parseFloat(this.newPrice()) });
+        }
+        this.newName("");
+        this.newInventory("");
+        this.newPrice("");
     };
 
     this.sortByName = function () {
