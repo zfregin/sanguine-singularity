@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Inventory";
+}
+
+<h2>Inventory Tracker</h2>
+
+<form>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="itemName">Item:</label>
+                <input type="text" class="form-control" id="itemName" data-bind="value: newName">
+            </div>
+            <div class="form-group">
+                <label for="itemInventory">Inventory:</label>
+                <input type="text" class="form-control" id="itemInventory" data-bind="value: newInventory">
+            </div>
+            <div class="form-group">
+                <label for="itemPrice">Price:</label>
+                <input type="text" class="form-control" id="itemPrice" data-bind="value: newPrice">
+            </div>
+        </div>
+    </div>
+</form>
+
+<div data-bind="simpleGrid: gridViewModel"> </div>
+
+<button data-bind="click: addItem">Add item</button>
+
+<button data-bind="click: sortByName">Sort by name</button>
+
+<button data-bind="click: jumpToFirstPage, enable: gridViewModel.currentPageIndex">Jump to first page</button>
