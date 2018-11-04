@@ -5,10 +5,3 @@ C:\Users\ZachF\Documents\LedgerConsole\BankConsole\BankConsole\obj\Debug\BankCon
 C:\Users\ZachF\Documents\LedgerConsole\BankConsole\BankConsole\obj\Debug\BankConsole.csproj.CoreCompileInputs.cache
 C:\Users\ZachF\Documents\LedgerConsole\BankConsole\BankConsole\obj\Debug\BankConsole.exe
 C:\Users\ZachF\Documents\LedgerConsole\BankConsole\BankConsole\obj\Debug\BankConsole.pdb
-C:\Users\ZachF\Documents\sanguine-singularity\C#\BankConsole\BankConsole\bin\Debug\BankConsole.exe.config
-C:\Users\ZachF\Documents\sanguine-singularity\C#\BankConsole\BankConsole\bin\Debug\BankConsole.exe
-C:\Users\ZachF\Documents\sanguine-singularity\C#\BankConsole\BankConsole\bin\Debug\BankConsole.pdb
-C:\Users\ZachF\Documents\sanguine-singularity\C#\BankConsole\BankConsole\obj\Debug\BankConsole.csprojAssemblyReference.cache
-C:\Users\ZachF\Documents\sanguine-singularity\C#\BankConsole\BankConsole\obj\Debug\BankConsole.csproj.CoreCompileInputs.cache
-C:\Users\ZachF\Documents\sanguine-singularity\C#\BankConsole\BankConsole\obj\Debug\BankConsole.exe
-C:\Users\ZachF\Documents\sanguine-singularity\C#\BankConsole\BankConsole\obj\Debug\BankConsole.pdb

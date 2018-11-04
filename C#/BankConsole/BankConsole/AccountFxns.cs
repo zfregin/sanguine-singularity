@@ -12,7 +12,7 @@ namespace BankConsole
         {
             try
             {
-                Console.Clear();
+                
                 // Take user deposit input
                 Console.WriteLine("Enter the amount to deposit:");
                 // Format input
@@ -55,7 +55,6 @@ namespace BankConsole
             
             try
             {
-                Console.Clear();
                 // Take user withdrawal input
                 Console.WriteLine("Enter the amount to withdraw:");
                 // Format Input
@@ -101,19 +100,15 @@ namespace BankConsole
 
         public static void CheckBalance(User _user)
         {
-            Console.Clear();
             decimal currentBalance = _user.Balance;
             Console.WriteLine(String.Format("Current Balance: {0:C}", currentBalance));
         }
 
         public static void TransactionHistory(User _user)
         {
-            Console.Clear();
             // Check for history
             if (_user.Transactions.Count > 0)
             {
-                Console.WriteLine("Transaction history:");
-                Console.WriteLine();
                 // Iterate through list of user transactions to display
                 for (int i = 0; i < _user.Transactions.Count; i++)
                 {
