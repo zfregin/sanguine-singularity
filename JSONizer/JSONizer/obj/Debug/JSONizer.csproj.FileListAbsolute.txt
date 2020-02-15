@@ -1,0 +1,10 @@
+C:\Users\ZachF\Documents\microgroove\JSONizer\JSONizer\bin\Debug\JSONizer.exe.config
+C:\Users\ZachF\Documents\microgroove\JSONizer\JSONizer\bin\Debug\JSONizer.exe
+C:\Users\ZachF\Documents\microgroove\JSONizer\JSONizer\bin\Debug\JSONizer.pdb
+C:\Users\ZachF\Documents\microgroove\JSONizer\JSONizer\obj\Debug\JSONizer.csprojAssemblyReference.cache
+C:\Users\ZachF\Documents\microgroove\JSONizer\JSONizer\obj\Debug\JSONizer.Form1.resources
+C:\Users\ZachF\Documents\microgroove\JSONizer\JSONizer\obj\Debug\JSONizer.Properties.Resources.resources
+C:\Users\ZachF\Documents\microgroove\JSONizer\JSONizer\obj\Debug\JSONizer.csproj.GenerateResource.cache
+C:\Users\ZachF\Documents\microgroove\JSONizer\JSONizer\obj\Debug\JSONizer.csproj.CoreCompileInputs.cache
+C:\Users\ZachF\Documents\microgroove\JSONizer\JSONizer\obj\Debug\JSONizer.exe
+C:\Users\ZachF\Documents\microgroove\JSONizer\JSONizer\obj\Debug\JSONizer.pdb
